@@ -1,7 +1,5 @@
 # I am Shree Jaybhay
 
-[](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
-
 🔭 I’m currently working on [StreamVault](https://streamvault-ten.vercel.app/)
 
 👨‍💻 All of my projects are available at [https://shree-jaybhay.vercel.app/](https://shree-jaybhay.vercel.app/)
@@ -9,6 +7,9 @@
 💬 Ask me about ReactJs, NextJs, MongoDB
 
 📫 How to reach me: shreejaybhay26@gmail.com
+
+#
+[](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___shree___26)
