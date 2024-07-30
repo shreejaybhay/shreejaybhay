@@ -1,7 +1,6 @@
 # I am Shree Jaybhay
 
-#
-![](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
+#![](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
 
 🔭 I’m currently working on [StreamVault](https://streamvault-ten.vercel.app/)
 
