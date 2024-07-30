@@ -9,7 +9,7 @@
 📫 How to reach me: shreejaybhay26@gmail.com
 
 #
-[](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
+![](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___shree___26)
