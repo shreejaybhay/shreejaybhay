@@ -25,9 +25,16 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shreejaybhay&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=shreejaybhay&theme=radical&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=shreejaybhay&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreejaybhay&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+    </td>
+  </tr>
+</table>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shreejaybhay&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
