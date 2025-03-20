@@ -1,6 +1,6 @@
 # Hi 👋 I am Shree Jaybhay
 
-🔭 I'm currently working on [StreamVault](https://streamvault-ten.vercel.app/), [Snippets](https://ez-snippets-shree.vercel.app/).
+🔭 I'm currently working on [StreamVault](https://streamvault-ten.vercel.app/), [Snippets](https://snippets-shree.vercel.app/).
 
 👨‍💻 All of my projects are available at [https://shree-jaybhay.vercel.app/](https://shree-jaybhay.vercel.app/)
 
