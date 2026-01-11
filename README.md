@@ -62,15 +62,19 @@ I have recently built and launched several full-stack applications:
 
 ---
 
-### 📊 **GitHub Analytics**
+### 📊 **GitHub Analytics Dashboard**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=shreejaybhay&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreejaybhay&layout=compact&theme=tokyonight" alt="Languages" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=shreejaybhay&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=79bbff&text_color=c0caf5&bg_color=1a1b27" />
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/streak?username=shreejaybhay&theme=tokyonight&hide_border=true&stroke=7aa2f7&background=1a1b27" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreejaybhay&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27" alt="Activity Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shreejaybhay&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=7aa2f7" alt="Shree's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shreejaybhay&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=c0caf5&bg_color=1a1b27" />
 </p>
 
 ### ✍️ **Random Dev Quote**
