@@ -1,12 +1,12 @@
 # Hi 👋 I am Shree Jaybhay
 
-🔭 I'm currently working on [ConnectAid](https://connectaid-shree.vercel.app/), [Smart-Notes](https://smartnotes-me.vercel.app/), [StreamVault](https://streamvault-ten.vercel.app/), [Snippets](https://snippets-shree.vercel.app/).
+I have recently completed [ConnectAid](https://connectaid-shree.vercel.app/), [Smart-Notes](https://smartnotes-me.vercel.app/), [StreamVault](https://streamvault-ten.vercel.app/), [Snippets](https://snippets-shree.vercel.app/).
 
-👨‍💻 All of my projects are available at [https://shree-jaybhay.vercel.app/](https://shree-jaybhay.vercel.app/)
+All of my projects are available at [Portfolio](https://shree-jaybhay.vercel.app/)
 
-💬 Ask me about ReactJS, NextJS, MongoDB
+Ask me about ReactJS, NextJS, and MongoDB
 
-📫 How to reach me: shreejaybhay26@gmail.com
+How to reach me: shreejaybhay26@gmail.com
 
 ![Profile Banner](https://i.postimg.cc/rmgMC68N/1721838125823.jpg)
 
