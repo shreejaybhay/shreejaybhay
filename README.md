@@ -5,7 +5,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=shreejaybhay&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-![My Coding Creature](http://localhost:3000/api/creature-image/shreejaybhay)
+
 <h1 align="center">Hi 👋 I am Shree Jaybhay</h1>
 
 <p align="center">
@@ -81,3 +81,5 @@ I have recently built and launched several full-stack applications:
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
+
+![My Coding Creature](http://localhost:3000/api/creature-image/shreejaybhay)
